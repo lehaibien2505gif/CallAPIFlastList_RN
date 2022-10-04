@@ -102,8 +102,6 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     marginLeft: 10
   }
-
-
 });
-
 export default App;
+//done
