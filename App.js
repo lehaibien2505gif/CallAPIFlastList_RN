@@ -58,9 +58,6 @@ const App = () => {
   );
 };
 
-
-
-
 // ======= css
 const styles = StyleSheet.create({
   conotainer: {
@@ -94,7 +91,6 @@ const styles = StyleSheet.create({
     color: '#000000',
     fontStyle: 'italic'
 
-
   },
 
   fromText: {
@@ -102,6 +98,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     marginLeft: 10
   }
+
 });
 export default App;
 //done
